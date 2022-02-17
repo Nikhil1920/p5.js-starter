@@ -12,4 +12,4 @@ Install it using `npm install -g serve`
 
 and just type `serve` in the terminal to start the server in the current directory.
 
-You can clone the repo using `git clone https://github.com/Nikhil1920/p5.js-starter` or you can download the zip file from Releases tab.
+You can clone the repo using `git clone https://github.com/Nikhil1920/p5.js-starter` or you can download the zip file from [Releases tab](https://github.com/Nikhil1920/p5.js-starter/releases).
